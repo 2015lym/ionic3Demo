@@ -1,3 +1,8 @@
+ionic2 DEMO2
+
+[简书地址](http://www.jianshu.com/p/0f024a62ba14)
+
+
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
