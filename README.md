@@ -1,7 +1,9 @@
-ionic2 DEMO2
-
+ionic2 DEMO
+---
 [简书地址](http://www.jianshu.com/p/0f024a62ba14)
 
+下面是官方提供的运行方式
+---
 
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
