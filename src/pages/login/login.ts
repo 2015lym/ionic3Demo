@@ -1,13 +1,7 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { IonicPage, ModalController} from 'ionic-angular';
 import { TabsPage } from "../tabs/tabs";
 
-/**
- * Generated class for the LoginPage page.
- *
- * See http://ionicframework.com/docs/components/#navigation for more info
- * on Ionic pages and navigation.
- */
 @IonicPage()
 @Component({
   selector: 'page-login',
@@ -15,7 +9,7 @@ import { TabsPage } from "../tabs/tabs";
 })
 export class LoginPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(public modalCtrl: ModalController) {
   }
 
   ionViewDidLoad() {
@@ -30,7 +24,8 @@ export class LoginPage {
     } else {
       let userinfo: string = '用户名：' + username.value + '密码：' + password.value;
       alert(userinfo);
-      this.navCtrl.push(TabsPage);
+      let modal = this.modalCtrl.create(TabsPage);
+      modal.present();
     }
   }
 
