@@ -8,6 +8,9 @@ ionic DEMO
 
 关联博客地址：
 ---
+说明文档-本页  
+对应分支：[demo1](https://github.com/2015lym/ionicDemo/tree/demo1)
+
 [Angular4.0架构详解](http://www.jianshu.com/p/3c06260e6015)  
 对应分支：无，理论教学
 
@@ -15,10 +18,10 @@ ionic DEMO
 对应分支：无，理论教学
 
 [使用ionic2制作WebApp项目（二）](http://www.jianshu.com/p/0f024a62ba14)  
-对应分支：[demo2](https://github.com/2015lym/ionicDemo/tree/demo1)
+对应分支：[demo2](https://github.com/2015lym/ionicDemo/tree/demo2)
 
 [使用ionic2制作WebApp项目（三）](http://www.jianshu.com/p/0f024a62ba14)  
-对应分支：[demo3](https://github.com/2015lym/ionicDemo/tree/demo2)
+对应分支：[demo3](https://github.com/2015lym/ionicDemo/tree/demo3)
 
 
 **最后给大家推荐一些学习资源**  
