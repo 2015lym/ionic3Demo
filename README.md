@@ -8,7 +8,7 @@ ionic DEMO
 
 关联博客地址：
 ---
-说明文档
+说明文档  
 对应分支：[demo1](https://github.com/2015lym/ionicDemo/tree/demo1)
 
 [Angular4.0架构详解](http://www.jianshu.com/p/3c06260e6015)  
