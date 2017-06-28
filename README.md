@@ -22,3 +22,6 @@ ionic DEMO
 
 [ionic2&3制作WebApp项目（三）设置页制作](http://www.jianshu.com/p/7ea502ef2e49)  
 对应分支：[demo3](https://github.com/2015lym/ionicDemo/tree/demo3)
+
+[ionic2&3制作WebApp项目（四）安卓硬件返回键处理](http://www.jianshu.com/p/02f190059aaa)  
+对应分支：[demo4](https://github.com/2015lym/ionicDemo/tree/demo4)
