@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, ModalController} from 'ionic-angular';
 import { TabsPage } from "../tabs/tabs";
+import { Platform } from 'ionic-angular';
+import { BackButtonService } from "../../services/backButton.service";
 
 @IonicPage()
 @Component({
@@ -9,7 +11,12 @@ import { TabsPage } from "../tabs/tabs";
 })
 export class LoginPage {
 
-  constructor(public modalCtrl: ModalController) {
+  constructor(public modalCtrl: ModalController,
+              private backButtonService: BackButtonService,
+              private platform: Platform) {
+      platform.ready().then(() => {
+          this.backButtonService.registerBackButtonAction(null);
+      });
   }
 
   ionViewDidLoad() {

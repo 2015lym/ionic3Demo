@@ -10,6 +10,7 @@ import { LoginPage } from '../pages/login/login';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { SettingPage } from "../pages/setting/setting";
+import { BackButtonService } from "../services/backButton.service";
 
 @NgModule({
   declarations: [
@@ -34,7 +35,8 @@ import { SettingPage } from "../pages/setting/setting";
   providers: [
     StatusBar,
     SplashScreen,
-    {provide: ErrorHandler, useClass: IonicErrorHandler}
+    {provide: ErrorHandler, useClass: IonicErrorHandler},
+    BackButtonService
   ]
 })
 export class AppModule {}
