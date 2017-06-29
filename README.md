@@ -18,10 +18,10 @@ ionic DEMO
 对应分支：无，理论教学
 
 [ionic2&3教程（二）登录页制作](http://www.jianshu.com/p/0f024a62ba14)  
-对应分支：[demo2](https://github.com/2015lym/ionicDemo/tree/demo2)
+对应分支：[demo2](https://github.com/2015lym/ionic3Demo/tree/demo2)
 
 [ionic2&3教程（三）设置页制作](http://www.jianshu.com/p/7ea502ef2e49)  
-对应分支：[demo3](https://github.com/2015lym/ionicDemo/tree/demo3)
+对应分支：[demo3](https://github.com/2015lym/ionic3Demo/tree/demo3)
 
 [ionic2&3教程（四）安卓硬件返回键处理](http://www.jianshu.com/p/02f190059aaa)  
-对应分支：[demo4](https://github.com/2015lym/ionicDemo/tree/demo4)
+对应分支：[demo4](https://github.com/2015lym/ionic3Demo/tree/demo4)
