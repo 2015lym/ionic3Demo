@@ -9,8 +9,8 @@ ionic DEMO
 项目运行方式：
 ---
 
-    $ npm install
-    $ ionic serve
+	$ npm install
+	$ ionic serve
 
 关联博客地址：
 ---
