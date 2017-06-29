@@ -4,7 +4,7 @@ ionic DEMO
 持续更新，支持最新的 ionic3.40 版本。  
 手把手教你从这个Demo入手，一步步了解 ionic 的使用方法。  
 
-`下载Demo的同学，请从下面的关联博客地址，选择对应的分支。`
+>为了防止多余代码的干扰，我把每次更新的模块分在的不同的分支，下载Demo的朋友，请从下面的关联博客地址，选择对应的分支。
 
 项目运行方式：
 ---
@@ -14,7 +14,8 @@ ionic DEMO
 
 关联博客地址：
 ---
-说明文档  
+
+项目最新代码
 对应分支：[demo1](https://github.com/2015lym/ionicDemo/tree/demo1)
 
 [Angular4.0架构详解](http://www.jianshu.com/p/3c06260e6015)  
