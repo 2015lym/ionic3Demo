@@ -6,6 +6,12 @@ ionic DEMO
 
 `下载Demo的同学，请从下面的关联博客地址，选择对应的分支。`
 
+项目运行方式：
+---
+
+	$ npm install
+	$ ionic serve
+
 关联博客地址：
 ---
 说明文档  
@@ -25,3 +31,4 @@ ionic DEMO
 
 [ionic2&3教程（四）安卓硬件返回键处理](http://www.jianshu.com/p/02f190059aaa)  
 对应分支：[demo4](https://github.com/2015lym/ionic3Demo/tree/demo4)
+
