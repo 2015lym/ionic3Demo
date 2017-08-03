@@ -19,8 +19,13 @@ ionic DEMO
 项目最新代码
 对应分支：[demo1](https://github.com/2015lym/ionicDemo/tree/demo1)
 
-[Angular4.0架构详解](http://www.jianshu.com/p/3c06260e6015)  
+[Angular 4.0 架构详解](http://www.jianshu.com/p/3c06260e6015)  
 对应分支：无，理论教学
+
+[Angular 4.0 内置指令全攻略](http://www.jianshu.com/p/4cc3a04ca83a)  
+对应分支：无，理论教学
+
+---
 
 [ionic3 教程（一）安装和配置](http://www.jianshu.com/p/1baf40713c1c)   
 对应分支：无，理论教学
