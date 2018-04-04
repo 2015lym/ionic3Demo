@@ -1,10 +1,10 @@
 ionic DEMO
 ---
 
-![Ionic v3.9.2](https://img.shields.io/badge/Ionic-v3.9.2-green.svg)  
-![Angular v5.2.9](https://img.shields.io/badge/Angular-v5.2.9-green.svg)  
-![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Author Lym](https://img.shields.io/badge/author-Lym-blue.svg)  
+![Ionic v3.9.2](https://img.shields.io/badge/Ionic-v3.9.2-green.svg)
+![Angular v5.2.9](https://img.shields.io/badge/Angular-v5.2.9-green.svg)
+![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![Author Lym](https://img.shields.io/badge/author-Lym-blue.svg)
 
 从安装搭建环境，到页面制作再到网络请求，让你顺利入门。  
 如果对你有帮助，可以点个 Star
