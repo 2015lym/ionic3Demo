@@ -18,7 +18,7 @@ export class BackButtonService {
     //registerBackButtonAction是系统自带的方法
     this.platform.registerBackButtonAction(() => {
       //获取NavController
-      let activeNav: NavController = this.appCtrl.getActiveNav();
+      let activeNav: NavController = this.appCtrl.getActiveNavs()[0];
       //如果可以返回上一页，则执行pop
       if (activeNav.canGoBack()) {
         activeNav.pop();
