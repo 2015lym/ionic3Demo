@@ -14,7 +14,7 @@ export class LoginPage {
   constructor(public modalCtrl: ModalController,
               private backButtonService: BackButtonService,
               private platform: Platform) {
-      platform.ready().then(() => {
+      this.platform.ready().then(() => {
           this.backButtonService.registerBackButtonAction(null);
       });
   }
