@@ -13,7 +13,7 @@ export class TabsPage {
   @ViewChild('myTabs') tabRef: Tabs;
 
   constructor(public backButtonService: BackButtonService,
-              private platform: Platform) {
+    private platform: Platform) {
     this.tabRoots = [
       {
         root: HomePage,
@@ -27,8 +27,8 @@ export class TabsPage {
       }
     ];
 
-      platform.ready().then(() => {
-          this.backButtonService.registerBackButtonAction(this.tabRef);
-      });
+    this.platform.ready().then(() => {
+      this.backButtonService.registerBackButtonAction(this.tabRef);
+    });
   }
 }
